@@ -1,0 +1,33 @@
+/*
+.mainBody{
+    width: 60%;
+    
+    
+}*/
+
+
+/*to display login form in middle*/
+.center{
+    /*height: 100vh;*/
+    width: 500px;
+    /*display: flex;*/
+    margin-top: 20px;
+    justify-content: center;
+    /*align-items: center;*/
+}
+
+/*to round current user image*/
+.roundImg{
+    width: 40px;
+    border-radius: 50%;
+}
+
+/*adds more space between navigation items in navbar*/
+.nav-link, .col-xs-4{
+    margin-left: 1em;
+}
+
+/*to align verticaly current user and log out item in navbar*/
+.navBarRight{
+    margin-top: 6px;
+}
