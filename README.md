@@ -1,4 +1,7 @@
 ## Summary
+
+This is a java web application that utilizes servlets and jsps. Developed using apache tomcat web server and MySQL database and maven.  
+
 ### Available Users
 Username/password/type
 - dave.lindale@moylishmotors.ie       dave2     sales
