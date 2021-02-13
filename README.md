@@ -1,6 +1,8 @@
 ## Summary
 
 This is a java web application that utilizes servlets and jsps. Developed using apache tomcat web server and MySQL database and maven.  
+![](screenshots/capture1.png)
+![](screenshots/capture2.png)
 
 ### Available Users
 Username/password/type
